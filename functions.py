@@ -1,4 +1,4 @@
-FILEPATH = "/home/simon/code/pythone_course/app/todos.txt"
+FILEPATH = "/home/simon/PycharmProjects/web_app1/todos.txt"
 
 def get_todos(filepath=FILEPATH):
     """ Read the text file and return the list of
